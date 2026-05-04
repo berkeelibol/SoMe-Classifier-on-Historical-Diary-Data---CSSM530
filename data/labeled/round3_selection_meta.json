@@ -1,0 +1,15 @@
+{
+  "round": 3,
+  "author": "wordsworth",
+  "model_path": "models/setfit_round2",
+  "n_unlabeled_scored": 472,
+  "n_uncertain": 25,
+  "n_certain": 25,
+  "n_selected": 50,
+  "uncertainty_stats": {
+    "mean": -0.20642350628467315,
+    "median": -0.19586414903781785,
+    "max": -0.0008179502027777508,
+    "min": -0.4411945664911562
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "VST": {
+    "precision": 1.0,
+    "recall": 0.0385,
+    "f1": 0.0741,
+    "support": 52
+  },
+  "HST": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 90
+  },
+  "SA": {
+    "precision": 0.5,
+    "recall": 0.0476,
+    "f1": 0.087,
+    "support": 21
+  },
+  "OR": {
+    "precision": 0.5,
+    "recall": 0.0606,
+    "f1": 0.1081,
+    "support": 66
+  },
+  "WB": {
+    "precision": 0.5158,
+    "recall": 0.6622,
+    "f1": 0.5799,
+    "support": 74
+  },
+  "macro_f1": 0.1698,
+  "micro_f1": 0.2732,
+  "weighted_f1": 0.1839,
+  "hamming_loss": 0.2384,
+  "exact_match": 0.128
+}

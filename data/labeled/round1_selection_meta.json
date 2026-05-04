@@ -1,0 +1,15 @@
+{
+  "round": 1,
+  "author": "pepys",
+  "model_path": "models/setfit_round0",
+  "n_unlabeled_scored": 5216,
+  "n_uncertain": 25,
+  "n_certain": 25,
+  "n_selected": 50,
+  "uncertainty_stats": {
+    "mean": -0.23615454370052533,
+    "median": -0.26282613098474633,
+    "max": -0.00015415899264026311,
+    "min": -0.38931443415468203
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "round": 2,
+  "author": "wesley",
+  "model_path": "models/setfit_round1",
+  "n_unlabeled_scored": 1332,
+  "n_uncertain": 25,
+  "n_certain": 25,
+  "n_selected": 50,
+  "uncertainty_stats": {
+    "mean": -0.21205305710245972,
+    "median": -0.20947575793073323,
+    "max": -0.0002094907005975033,
+    "min": -0.44347264980488743
+  }
+}
